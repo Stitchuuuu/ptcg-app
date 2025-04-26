@@ -1,0 +1,7 @@
+import { render } from "./loader.svg?vue&type=template&id=4dae43bd"
+const script = {}
+
+import exportComponent from "../../../node_modules/vue-loader/dist/exportHelper.js"
+const __exports__ = /*#__PURE__*/exportComponent(script, [['render',render]])
+
+export default __exports__

@@ -1,0 +1,10 @@
+{
+	"icons": [
+	  	{ "src": "/favicons/192.png", "type": "image/png", "sizes": "192x192" },
+	  	{ "src": "/favicons/512.png", "type": "image/png", "sizes": "512x512" }
+	],
+	"display": "standalone",
+	"name": "PTCG Professor App",
+	"short_name": "ptcg-professor",
+	"description": "PTCG Professor App"
+}
